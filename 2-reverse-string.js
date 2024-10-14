@@ -1,4 +1,4 @@
-let word = "hello";
+const word = "hello";
 let reversed = "";
 
 for (let i = 0; i <= word.length - 1; i++) {
